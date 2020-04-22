@@ -1,0 +1,13 @@
+===================
+REQUIREMENTS
+===================
+This project was written with Python3.
+
+Libraries used:
+pytest:     5.2.2       python -m pip install pytest
+tweepy:     3.8.0       python -m pip install tweepy
+nltk:       3.4.5       python -m pip install nltk
+textblob:   0.15.3      python -m pip install textblob
+ttkthemes:  2.4.0       python -m pip install ttkthemes
+
+NB: You may have to add --user.
